@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Colombia
+  iso: CO
+  block: 8
+  range: [666,760]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "CO-V-0666"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0667"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0668"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0669"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0670"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0671"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0672"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0673"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0674"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0675"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0676"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0677"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0678"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0679"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0680"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0681"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0682"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0683"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0684"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0685"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0686"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0687"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0688"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0689"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0690"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0691"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0692"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0693"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0694"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0695"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0696"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0697"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0698"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0699"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0700"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0701"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0702"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0703"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0704"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0705"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0706"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0707"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0708"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0709"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0710"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0711"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0712"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0713"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0714"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0715"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0716"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0717"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0718"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0719"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0720"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0721"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0722"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0723"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0724"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0725"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0726"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0727"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0728"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0729"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0730"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0731"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0732"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0733"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0734"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0735"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0736"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0737"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0738"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0739"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0740"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0741"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0742"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0743"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0744"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0745"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0746"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0747"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0748"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0749"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0750"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0751"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0752"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0753"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0754"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0755"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0756"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0757"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0758"
+      anchor: "Plan Colombia and security cooperation impacts (public policy record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0759"
+      anchor: "Land dispossession and transitional justice processes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CO-V-0760"
+      anchor: "Decades-long armed conflict and civilian displacement"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

@@ -1,0 +1,27 @@
+{
+  "url": "https://guides.loc.gov/",
+  "final_url": "https://guides.loc.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 28105,
+  "sha256": "62efb704464c1723a58f3ea21c769fbf42499b058d970eed20c5b893698c87b7",
+  "captured_at": "2026-11-21T18:28:07.549130Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Colombia",
+  "iso": "CO",
+  "title": "Library of Congress - Research Guides / Country Studies",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:30:47 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-backend-server": "libguides-us-1.springyaws.com",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "upgrade-insecure-requests",
+    "strict-transport-security": "max-age=31536000; preload",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a5e1c482892e5e2a-MIA"
+  }
+}
